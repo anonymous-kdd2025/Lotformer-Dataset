@@ -1,4 +1,4 @@
-# This is a Dataset reporitory
+# This is a Dataset repository
 To download this dataset, use 
 ```
 git clone https://github.com/zhangyuanyuzyy/LT-Transformer-Dataset.git
