@@ -1,7 +1,7 @@
 # This is a Dataset repository
 To download this dataset, use 
 ```
-git clone https://github.com/zhangyuanyuzyy/LT-Transformer-Dataset.git
+git clone https://github.com/anonymous-kdd2025/Lotformer-Dataset.git
 ```
 
 # Summary of the dataset
